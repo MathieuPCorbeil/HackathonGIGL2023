@@ -11,5 +11,5 @@ Voici les gagnant:
 |--|--|
 |1ère place|https://github.com/celidur/PolyNoel|
 | 2e place| https://github.com/iremyildizz/Hackathon_GIGL2023 |
-|1ère année|https://github.com/yassine128/canvasOnline|
+|1ère année|https://github.com/clemlebeau/HackathonInfoLog2023|
 |Prix participation|https://github.com/thomas-rou/HackatonInfoLogA23|
